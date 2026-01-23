@@ -842,7 +842,7 @@ PlayerSettings:
   cloudProjectId: 2c3bcafc-2454-47f7-83ca-d80c2b1c770c
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Space Shooter FREE
+  projectName: spaceshooter
   organizationId: unity_45c42a5d30f5e8044823
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
